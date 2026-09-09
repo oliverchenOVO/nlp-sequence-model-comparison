@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.pt
+*.pth
+checkpoints/
+runs/
+.DS_Store
+Thumbs.db
